@@ -67,7 +67,7 @@ why it matters :
 
 🌍 1. Sustainability-Oriented Design :
 
-Mimics nature’s efficiency: the bee’s form and function demonstrate how minimal energy and material can achieve complex tasks.
+It Mimics nature’s efficiency like bee’s form & function demonstrate how minimal energy & material can achieve complex tasks.
 
 Encourages biomimetic solutions in green tech, such as energy-efficient micro-drones or insect-inspired pollination robots.
 
@@ -96,19 +96,19 @@ Ideal for use in AI swarm behavior simulation and optimization studies.
 
 
 
-🎓 4. STEM & Educational Impact :
+🎓 4. STEM learning & Educational Impact :
 
-Inspires students and engineers by showing how nature-inspired design can lead to practical technology.
+This Inspires students & engineers by showing how nature-inspired design can lead to practical technology.
 
 Used in Festo’s STEM programs to teach topics like:
 
-Mechatronics
+> Mechatronics
 
-Aerodynamics
+> Aerodynamics
 
-Systems integration
+> Systems integration
 
-Environmental sensing
+> Environmental sensing
 
 
 
